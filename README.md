@@ -1,4 +1,5 @@
-### Hi there 👋
+### Contributing
+- [Yamada UI](https://github.com/yamada-ui/yamada-ui/graphs/contributors)
 
 <!--
 **38Koo/38Koo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
